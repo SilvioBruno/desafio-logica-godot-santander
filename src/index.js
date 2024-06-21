@@ -1,1 +1,3 @@
-console.log("testando")
+var nome = "silvio"
+
+console.log(nome)
